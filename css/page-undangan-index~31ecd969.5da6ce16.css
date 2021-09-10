@@ -1,0 +1,1 @@
+.grid-item2{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(1,1fr);grid-column-gap:10px;grid-row-gap:10px}a:link,a:visited{color:#eb8999}a:active,a:hover{color:orange}
